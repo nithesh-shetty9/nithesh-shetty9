@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nithesh Shetty, an engineering student with a strong passion for software development and technology. I have a solid foundation in HTML, CSS, JavaScript, Java, and Data Structures & Algorithms. My goal is to become a Full Stack and AI Developer by mastering modern web technologies, the MERN stack, and artificial intelligence. I enjoy solving challenging problems, learning new technologies, and building real-world applications that enhance my development skills. I am a quick learner, self-motivated, and always eager to explore innovative ideas and continuously improve as a developer.
+Hi, I'm Nithesh Shetty, an engineering student with a strong passion for software development and technology. I have a solid foundation in HTML, CSS, JavaScript, Java, and Data Structures & Algorithms. My goal is to become a Full Stack and AI Developer by mastering modern web technologies, the MERN stack, and artificial intelligence. I enjoy solving challenging problems, learning new technologies, and building real-world applications that enhance my development skills. I am a quick learner, self-motivated, and always eager to explore innovative ideas and continuously improve as a developer
 
 
 ## 🌐 Socials:
