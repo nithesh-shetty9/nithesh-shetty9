@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithesh</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithesh-shetty9&label=Profile%20views&color=0e75b6&style=flat" alt="nithesh-shetty9" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithesh-shetty9" alt="nithesh-shetty9" /></a> </p>
 
 - 🌱 I’m currently learning **mernstack and dsa with cpp**
