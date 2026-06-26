@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithesh</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithesh-shetty9&label=Profile%20views&color=0e75b6&style=flat" alt="nithesh-shetty9" /> </p>
 - 🌱 I’m currently learning **mernstack and dsa with cpp**
 
 <h3 align="left">Connect with me:</h3>
