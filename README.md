@@ -154,10 +154,10 @@ A modern password manager built using HTML, CSS, and JavaScript for storing and 
 
 <div align="center">
 
-<img height="165" src="./profile/stats.svg" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=nithesh-shetty9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nithesh-shetty9&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
 
-<img height="165" src="./profile/top-langs.svg" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=nithesh-shetty9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithesh-shetty9&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=ffffff" width="95%"/>
 
