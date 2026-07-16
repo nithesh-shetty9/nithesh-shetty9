@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nithesh%20Shetty&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20ISE%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nithesh%20Shetty&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%20%7C%20DSA%20Enthusiast%20%7C%20ISE%20Student&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/nithesh-shetty9">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Hi+There%2C+I'm+Nithesh+Shetty+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%A0;Information+Science+Engineering+Student+%F0%9F%8E%93;MERN+Stack+%7C+Advanced+DSA+with+C%2B%2B;Building+Impactful+Real-World+Apps+%F0%9F%9A%80" alt="Typing SVG" />
