@@ -1,19 +1,173 @@
-<h1 align="center">Hi 👋, I'm Nithesh</h1>
-<h3 align="center">A passionate fullstack developer</h3>
-- 🌱 I’m currently learning **mernstack and dsa with cpp**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/nithesh_shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nithesh_shetty" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nitheshshetty9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nithesh" height="30" width="40" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nithesh%20Shetty&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20ISE%20Student&descAlignY=58&descSize=18" width="100%"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="https://github.com/nithesh-shetty9">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Hi+There%2C+I'm+Nithesh+Shetty+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%A0;Information+Science+Engineering+Student+%F0%9F%8E%93;MERN+Stack+%7C+Advanced+DSA+with+C%2B%2B;Building+Impactful+Real-World+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithesh-shetty9&show_icons=true&locale=en&layout=compact" alt="nithesh-shetty9" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithesh-shetty9&show_icons=true&locale=en" alt="nithesh-shetty9" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=nithesh-shetty9&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/nithesh-shetty9?label=Followers&style=for-the-badge&color=00F5FF&logo=github)](https://github.com/nithesh-shetty9)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nithesh_shetty/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/nitheshshetty9/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithesh-shetty9&" alt="nithesh-shetty9" /></p>
+</div>
 
+<img src="https://raw.githubusercontent.com/andresmvo/andresmvo/master/marquee.svg" width="100%"/>
+
+## 🧑‍💻 About Me
+
+<img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🎯 **Role:** Full Stack Developer | DSA Enthusiast | Information Science Engineering Student
+- 💡 Passionate about building **responsive web applications**, solving **Data Structures & Algorithms** problems, and learning modern technologies.
+- 📚 Currently learning **MERN Stack** and **Advanced DSA with C++**.
+- 🚀 **Goal:** Become a Software Engineer and build impactful real-world applications.
+- 🌱 Always exploring new frameworks, tools, and best practices.
+- ⚡ Fun fact: I turn coffee into code and bugs into features!
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andresmvo/andresmvo/master/marquee.svg" width="100%"/>
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andresmvo/andresmvo/master/marquee.svg" width="100%"/>
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ SAFARA
+**Navigate Smart. Travel Safe.**
+
+A safety-focused navigation platform that helps users find safer travel routes while enabling incident reporting.
+
+**✨ Features**
+- 🗺️ Safe route navigation
+- 🧭 Interactive maps
+- 🚨 Incident reporting
+- ☎️ Emergency contacts
+- 📱 Responsive UI
+
+**🧰 Tech Stack**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
+![OSRM](https://img.shields.io/badge/OSRM-0A66C2?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/nithesh-shetty9/SAFARA)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Password Manager
+**Secure. Simple. Smart.**
+
+A modern password manager built using HTML, CSS, and JavaScript for storing and managing credentials locally.
+
+**✨ Features**
+- 🔑 Store website credentials
+- 📋 Copy username, website & password
+- 🗑️ Delete credentials
+- 💾 Local Storage support
+- 🔔 Modern toast notifications
+- 📱 Responsive design
+
+**🧰 Tech Stack**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Repo](https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/nithesh-shetty9/password-manager)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://nithesh-shetty9.github.io/password-manager/)
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andresmvo/andresmvo/master/marquee.svg" width="100%"/>
+
+## 📊 GitHub Stats & Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nithesh-shetty9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nithesh-shetty9&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithesh-shetty9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithesh-shetty9&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=ffffff" width="95%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nithesh-shetty9&theme=tokyonight&no-frame=true&margin-w=10&row=1" width="90%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andresmvo/andresmvo/master/marquee.svg" width="100%"/>
+
+## 🧩 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-nithesh__shetty-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nithesh_shetty/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-nitheshshetty9-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/nitheshshetty9/)
+[![GitHub](https://img.shields.io/badge/GitHub-nithesh--shetty9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithesh-shetty9)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andresmvo/andresmvo/master/marquee.svg" width="100%"/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Always open to collaborating on exciting projects, contributing to open source, or discussing new ideas in web development and DSA. Feel free to explore my repositories and reach out!
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs2/js.gif" width="380">
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+<div align="center">
+<i>⭐️ Thanks for visiting my profile! Don't forget to star my repositories if you find them useful. ⭐️</i>
+</div>
