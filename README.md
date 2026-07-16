@@ -12,6 +12,16 @@
 [![GitHub followers](https://img.shields.io/github/followers/nithesh-shetty9?label=Followers&style=for-the-badge&color=00F5FF&logo=github)](https://github.com/nithesh-shetty9)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nithesh_shetty/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/nitheshshetty9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithesh-shetty-890812330)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitheshnithesh310@gmail.com)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br/>
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -27,6 +37,13 @@
 - 🚀 **Goal:** Become a Software Engineer and build impactful real-world applications.
 - 🌱 Always exploring new frameworks, tools, and best practices.
 - ⚡ Fun fact: I turn coffee into code and bugs into features!
+
+```yaml
+currently_learning: ["MERN Stack", "Advanced DSA in C++", "System Design Basics"]
+currently_solving: "500+ DSA problems across LeetCode & GeeksforGeeks"
+open_to: ["Internships", "Open Source Collaboration", "Freelance Projects"]
+ask_me_about: ["Web Development", "DSA", "React", "Node.js"]
+```
 
 <br clear="right"/>
 
@@ -62,6 +79,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
@@ -162,7 +185,14 @@ A modern password manager built using HTML, CSS, and JavaScript for storing and 
 
 Always open to collaborating on exciting projects, contributing to open source, or discussing new ideas in web development and DSA. Feel free to explore my repositories and reach out!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nithesh--shetty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithesh-shetty-890812330)
+[![Gmail](https://img.shields.io/badge/Email-nitheshnithesh310%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitheshnithesh310@gmail.com)
+
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs2/js.gif" width="380">
+
+<br/><br/>
+
+![Thanks](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+amazing+together+%F0%9F%9A%80)
 
 </div>
 
@@ -171,3 +201,4 @@ Always open to collaborating on exciting projects, contributing to open source, 
 <div align="center">
 <i>⭐️ Thanks for visiting my profile! Don't forget to star my repositories if you find them useful. ⭐️</i>
 </div>
+
