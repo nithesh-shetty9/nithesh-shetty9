@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/nithesh-shetty9/nithesh-shetty9/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresmvo/andresmvo/master/marquee.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
 
 ## 🧑‍💻 About Me
 
@@ -47,7 +47,7 @@ ask_me_about: ["Web Development", "DSA", "React", "Node.js"]
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/andresmvo/andresmvo/master/marquee.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack & Skills
 
@@ -88,7 +88,7 @@ ask_me_about: ["Web Development", "DSA", "React", "Node.js"]
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresmvo/andresmvo/master/marquee.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -148,7 +148,7 @@ A modern password manager built using HTML, CSS, and JavaScript for storing and 
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andresmvo/andresmvo/master/marquee.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Stats & Analytics
 
@@ -165,7 +165,7 @@ A modern password manager built using HTML, CSS, and JavaScript for storing and 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresmvo/andresmvo/master/marquee.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
 
 ## 🧩 Coding Profiles
 
@@ -177,7 +177,7 @@ A modern password manager built using HTML, CSS, and JavaScript for storing and 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresmvo/andresmvo/master/marquee.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
 
 ## 🤝 Let's Connect
 
@@ -188,10 +188,6 @@ Always open to collaborating on exciting projects, contributing to open source, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nithesh--shetty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithesh-shetty-890812330)
 [![Gmail](https://img.shields.io/badge/Email-nitheshnithesh310%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitheshnithesh310@gmail.com)
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs2/js.gif" width="380">
-
-<br/><br/>
-
 ![Thanks](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+amazing+together+%F0%9F%9A%80)
 
 </div>
@@ -201,4 +197,3 @@ Always open to collaborating on exciting projects, contributing to open source, 
 <div align="center">
 <i>⭐️ Thanks for visiting my profile! Don't forget to star my repositories if you find them useful. ⭐️</i>
 </div>
-
