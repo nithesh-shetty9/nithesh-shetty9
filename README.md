@@ -81,75 +81,12 @@ ask_me_about: ["Web Development", "DSA", "React", "Node.js"]
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
-
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ SAFARA
-**Navigate Smart. Travel Safe.**
-
-A safety-focused navigation platform that helps users find safer travel routes while enabling incident reporting.
-
-**✨ Features**
-- 🗺️ Safe route navigation
-- 🧭 Interactive maps
-- 🚨 Incident reporting
-- ☎️ Emergency contacts
-- 📱 Responsive UI
-
-**🧰 Tech Stack**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
-![OSRM](https://img.shields.io/badge/OSRM-0A66C2?style=flat-square)
-
-[![Repo](https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/nithesh-shetty9/SAFARA)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Password Manager
-**Secure. Simple. Smart.**
-
-A modern password manager built using HTML, CSS, and JavaScript for storing and managing credentials locally.
-
-**✨ Features**
-- 🔑 Store website credentials
-- 📋 Copy username, website & password
-- 🗑️ Delete credentials
-- 💾 Local Storage support
-- 🔔 Modern toast notifications
-- 📱 Responsive design
-
-**🧰 Tech Stack**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[![Repo](https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/nithesh-shetty9/password-manager)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://nithesh-shetty9.github.io/password-manager/)
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
-
 ## 📊 GitHub Stats & Analytics
 
 <div align="center">
