@@ -39,9 +39,9 @@
 - ⚡ Fun fact: I turn coffee into code and bugs into features!
 
 ```yaml
-currently_learning: ["MERN Stack", "Advanced DSA in C++", "System Design Basics"]
+currently_learning: ["MERN Stack", "Advanced DSA in C++"]
 currently_solving: "500+ DSA problems across LeetCode & GeeksforGeeks"
-open_to: ["Internships", "Open Source Collaboration", "Freelance Projects"]
+open_to: ["Internships", "Open Source Collaboration",]
 ask_me_about: ["Web Development", "DSA", "React", "Node.js"]
 ```
 
