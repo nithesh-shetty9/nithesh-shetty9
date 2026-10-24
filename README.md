@@ -40,7 +40,7 @@
 
 ```yaml
 currently_learning: ["MERN Stack", "Advanced DSA in C++"]
-currently_solving: "500+ DSA problems across LeetCode & GeeksforGeeks"
+currently_solving: "1000+ DSA problems across LeetCode & GeeksforGeeks"
 open_to: ["Internships", "Open Source Collaboration",]
 ask_me_about: ["Web Development", "DSA", "React", "Node.js"]
 ```
